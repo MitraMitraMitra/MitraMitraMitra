@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MitraMitraMitra
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning TensorFlow, AWS
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 You can reach me at jeanmitra77@gmail.com
 
